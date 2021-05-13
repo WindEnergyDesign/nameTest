@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Sponsor Bob"
-featured-img: shane-rounce-205187
+featured-img: team-photo-2018
 categories: [Sample, Guides]
 tags:
 ---
