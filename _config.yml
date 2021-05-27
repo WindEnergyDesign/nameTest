@@ -27,9 +27,9 @@ navigation: # Navigation links
   - {name: 'Sponsors', link: '/sponsors'}
 
 tagline: >
-  Modern Jekyll theme focused on speed performance &amp; SEO best practices
+  WE Design Wind Enery Designs! Come join University of Manitoba's small scale wind turbine design team.
 
-hero_img: posts/sleek_lg.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
+hero_img: posts/home_lg.jpg #posts/sleek_lg.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
 email: your-email@domain.com # email for form submission
 
