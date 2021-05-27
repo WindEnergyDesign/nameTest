@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Mechanical Division"
-featured-img: shane-rounce-205187
+featured-img: mechanical_division
 categories: [Sample, Guides]
 tags:
 
