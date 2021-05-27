@@ -2,7 +2,7 @@
 ---
 layout: post
 title: "Electrical Division"
-featured-img: mechanical_division
+featured-img: electrical_division
 categories: [Sample, Guides]
 tags:
 
