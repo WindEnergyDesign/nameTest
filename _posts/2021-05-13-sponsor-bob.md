@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Sponsor Bob"
-featured-img: try5
+featured-img: try6
 categories: [Sample, Guides]
 tags:
 ---
